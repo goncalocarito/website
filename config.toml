@@ -1,0 +1,78 @@
+baseURL = "http://goncalocarito.com/"
+languageCode = "en-us"
+title = "Gonçalo Carito - Life in Puzzles"
+theme = "kross"
+summaryLength = "10"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/shuffle/shuffle.min.js"
+
+
+# navigation
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+
+  [[menu.main]]
+  name = "Services"
+  URL = "about"
+  weight = 3
+
+  [[menu.main]]
+  name = "Projects"
+  URL = "portfolio"
+  weight = 4
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 5
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 6
+
+
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "Personal Website"
+author = "Gonçalo Carito"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  [params.contact]
+  enable = true
+  formAction = "#" #contact form works with formspree.io
+
+  #[params.footer]
+  #email = ""
+  #phone = ""
+  #address = "125/A, CA Commercial Area, California, USA"
