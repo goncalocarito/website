@@ -41,18 +41,14 @@ experience:
 education:
   enable : true
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "BSc in Communication Networks Engineering"
+      year : "2012"
+      academy : "Technical University of Lisbon"
 
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "MSc in Telecommunications Engineering and Informatics"
+      year : "2015"
+      academy : "Technical University of Lisbon"
 
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Training the Trainer Certificate"
+      year : "2016"
+      academy : "Zero Generation"

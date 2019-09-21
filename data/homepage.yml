@@ -27,19 +27,19 @@ about:
 service:
   enable : true
   item :
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Data Science & AI"
+      icon : "ti-bolt"
+      content : "Data Science & AI consultancy, Python & Pandas training, Data Science training, etc.."
       highlighted : false
 
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Education & Learning"
+      icon : "ti-blackboard"
+      content : "Soft-skills and team training in leadership, communication, team-building, ..."
       highlighted : true
 
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Literature & Writing"
+      icon : "ti-book"
+      content : "Writing services, emotional writing training, storytelling training, ..."
       highlighted : false
 
 # portfolio
